@@ -1,11 +1,10 @@
-tps = ['year', 'minute', 'second', 'hour', 'decade', 'week', 'day', 'month', 'decade', 'century', 'eons', 'forever',
-       'millennia']
-
-
 def valid_time(friends_length):
+    valid_types = ['year', 'minute', 'second', 'hour', 'decade', 'week', 'day', 'month', 'decade', 'century', 'eons',
+                   'forever', 'millennia']
+
     for word in friends_length.split():
         word = word.lower().rstrip('s')
-        if word in tps:
+        if word in valid_types:
             return True
     return False
 
