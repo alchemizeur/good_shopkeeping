@@ -92,9 +92,9 @@ def cooking_mama(snacktime):
         time.sleep(1)
         webbrowser.open('https://www.google.com/search?q=easy+recipes+for+someone+who+cant+cook')
     else:
-        print("I don't understand. But I am craving something"+rand_foods+". Lets look that up!")
+        print("I don't understand. But I am craving something"+random_choice_food+". Lets look that up!")
         time.sleep(1)
-        webbrowser.open('https://www.google.com/search?q=easy+to+make+'+rand_foods+'recipes')
+        webbrowser.open('https://www.google.com/search?q=easy+to+make+'+random_choice_food+'recipes')
 
 
 def date_parser(time_rn,todayy):## insanity
