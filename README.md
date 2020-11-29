@@ -22,7 +22,7 @@ data manipulation/formatting
 
   - Should have a corresponding `helper.py` 
   - Should have functions that are called through to a main function. 
-  - Should have 1 of each: A Strings, a List, An Array, and a Dictionary
+  - Should have at least 1 : A Strings, a List, An Array, and a Dictionary
       
 ### **ROUND 3**  | Working with string methods
 `main_1.py` | Create a similar instance of main.py (different conversation) that manipulates data using a handful of [string methods](https://www.w3schools.com/python/python_ref_string.asp).
