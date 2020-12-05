@@ -5,7 +5,7 @@
 
 import sys
 import random
-import helper_1
+import helper_1 as helper
 import csv
 from time import sleep
 
