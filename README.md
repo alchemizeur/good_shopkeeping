@@ -51,3 +51,10 @@ data manipulation/formatting
 - Uploaded to git! First introduction to the code. I've already got some good feedback from some people about how to better handle function calls. 
 My initial goal is to create a functioning chatbot, and then go back to create a more optimized formatting for calls.
 
+
+### 2020-12-13
+- Looking to upload `shopkeeper.py` for completion, so that I can redo it with some of the following aspects:
+- Create classes in place of npc states + beasts + inventory items into an object
+- using structured dialoge data + indexing in place of super long painful elifs
+- creating states in place of the dialogger
+- create save states with pickle
