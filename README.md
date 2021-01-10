@@ -29,3 +29,9 @@ I've moved older python files into a `retired` folder where they still can be ac
 ## Releases
 
 _None yet! Stay tuned!_
+
+## Wants
+   - [ ] Command Check: Help/Guide
+   - [ ] Command Check: Summary Guide
+   - [ ] Command Check: See Inventory
+   - [ ] Command Check: See Stats
