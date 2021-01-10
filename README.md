@@ -15,6 +15,7 @@ A new update of Good Shopkeeping has been released! New year new me. It's still 
 - ability to create character name + customizable pronouns
 
 ***coming up next update:***
+- Loading bars + cool cycle animations
 - clean up the face and the guts. (there are references both in guts and in the main.py-- we could afford to have that look cleaner)
 - select player class, which auto-assigns base stats
 - randomize character option
