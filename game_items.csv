@@ -1,0 +1,23 @@
+name,summary,type,effects,slot_space,max_stack,equippable_anywhere,rarity
+Slice of Bread,"A simple slice of bread. 10 slices make a loaf.",Food,{"HP": 5},1,10,1,0
+Rusty Iron Sword,"A basic Iron sword. A strong enough, reliable weapon for beating up innocent creatures.",Weapon,{"Strength": 5},3,1,0,0
+Healing Potion,"Restores health-- but don't ask us what's in it.",Consumable,{"HP": 20},1,5,0,0
+Magic Staff,"A staff imbued with magical energy.",Weapon,{"Wit": 2},4,1,1,1
+Basic Cheese Wheel,"A tasty wheel of cheese. Restores vitality.",Food,{"HP": 10},1,5,0,0
+Likely Cursed Amulet,"Probably cursed, who knows?",Necklace,{"current_vitality": -2},1,1,0,1
+Mystic Mango,"A mango that glows faintly. Tastes of starlight.",Food,{"HP": 15},1,3,1,1
+Spicy Chili Pepper,"One bite and your tongue is on fire! Boosts energy.",Food,{"Grit": 3},1,5,0,1
+Golden Apple,"An apple of legend, said to grant immense vitality.",Food,{"HP": 50},1,1,0,2
+Stale Biscuit,"Barely edible, but it'll do in a pinch.",Food,{"HP": 2},1,20,0,0
+Moonberry Tart,"A dessert so sweet, it feels like a hug for your soul.",Food,{"HP": 10},1,3,1,1
+Poisoned Loaf,"Rancid and moldy; definitely not safe.",Food,{"HP": -10},1,1,0,1
+Mushroom Stew,"A hearty bowl of stew made with forest mushrooms.",Food,{"HP": 15},1,2,1,1
+Dragonfruit Smoothie,"A magical blend that invigorates the senses.",Food,{"HP": 4},1,2,1,2
+Magician's Robes,"Elegant robes for spellcasters. Adds a mystical vibe.",Clothing,{"Wit": 5},2,1,0,1
+Necromancer's Robes,"Smells of the crypt. You won't be getting any dates with this one.",Clothing,{"Charm": -2},2,1,0,2
+Sickly Hamster,"A pet hamster. It's not looking too great, but it loves you.",Pet,{"Whimsy": 2},1,1,1,0
+Small Parakeet,"A noisy little bird. Yaps incessantly but boosts morale.",Pet,{"Charm": 3},1,1,1,1
+Tattered Cloak,"A cloak with holes. Better than nothing, right?",Clothing,{"Grit": 1},1,1,0,0
+Leather Belt,"Keeps your pants up and adds a touch of style.",Accessory,{"Brawn": 1},1,1,0,0
+Traveler's Boots,"Sturdy boots for the long road ahead.",Clothing,{"Finesse": 2},1,1,0,1
+Golden Collar,"A luxurious pet accessory. Your pet feels regal. Wait what do you mean its not for your pet?",Necklace,{"Charm": 5},1,1,1,2

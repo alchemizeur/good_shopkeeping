@@ -1,0 +1,14 @@
+Equipped Items:
+body: None
+shoes: None
+weapon_1: None
+weapon_2: None
+hat: None
+accessory_1: None
+accessory_2: None
+back: None
+gloves: None
+belt: None
+pet: None
+
+General Inventory:
